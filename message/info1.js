@@ -1,6 +1,6 @@
 exports.bot = (calender, wa_version, mcc, mnc, os_version, device_manufacturer, device_model,os,ram2,privat,groups,totalchat,latensi,gender,fake,nomerOwner)=> {
 return`
-「 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧𝗭 」
+「 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧 」
 
 *▸* Nama : ${fake}
 *▸* Gender : ${gender}
@@ -25,6 +25,7 @@ return`
 *▸* SCRIPT BY
    Decode Denpa
    X-Dev Team
+   iRexus
    Yogi PW
    Hexagon
    Dttaz
@@ -35,6 +36,7 @@ return`
    X-Dev Team
    Resta Gamteng
    Zeeone Ofc
+   iRexus
    X-Dev Team
    Yudha perdana
    Xchilds

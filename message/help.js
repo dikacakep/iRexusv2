@@ -511,6 +511,7 @@ ${week}, ${calender}
 *│* • Nina Kawai
 *│* • Resta Gamteng :v
 *│* • Zeeone Ofc
+*│* • iRexus
 *│* • Yudha Perdana
 *│* • Yogi PW
 *│* • Decode Denpa
