@@ -9,7 +9,7 @@
      "namaDocument": "iRexus",
      "joinGcExtream": false,
 
-     "publik": false,
+     "publik": true,
      "forwarding": true,
      "Loading": true,
      "antitroli" : true,
