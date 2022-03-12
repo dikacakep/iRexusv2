@@ -1,7 +1,7 @@
 {    
      "Version": "3.5.0",
      "namalu" : "iRexus",
-     "nomerlu": "6281299792351",
+     "nomerlu": "6285880531898",
      "namabot": "iRexus",
      "nomerbot": "6281211975897",
      "gender" : "None",
@@ -19,7 +19,7 @@
      "autorespon" : false,
      "autotyping" : false,
      "autoread" : false,
-     "autoblockcmd" : false, 
+     "autoblockcmd" : true, 
      "autobio" : true,
      "autoLevel" : true,
      "AutoClearChat": true,
@@ -60,7 +60,7 @@
                                                                                                                                                                                                                                    
      "setWelcome": {
      "autoWelcome": true,
-     "welcomeType": "type3",
+     "welcomeType": "type2",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
