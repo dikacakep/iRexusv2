@@ -24,11 +24,11 @@ exports.tekscmd =["Command tidak ditemukan","Maaf kak command tidak di temukan",
 
 
 
-exports.teksspam =["Jangan spam om",
+exports.teksspam =["jangan spam anjg",
 "Jangan spam",
 "Jangan spam ya",
 "Woy jangan spam",
-"Ups kamu terdeteksi spam, tolong beri jeda 5 detik"]
+"terdeteksi spam, tolong beri jeda 5 detik"]
 
 
 
