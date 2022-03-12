@@ -44,11 +44,11 @@ Type3 = client.welcome === "type3"
 Type4 = client.welcome === "type4" 
 const OneMem = anu.participants.length === 1
 const onMe = !mem.includes(client.user.jid) 
-const intro = `Halo @${memNumber} \n\nNama :\nUmur :\nGender : \nAsal :\n\nSemoga Betah dan jangan lupa di isi\nAnd Following Rules Group`;
-const outro = `Asik beban grup keluar \nKena mental dia :v`
+const intro = `Halo @${memNumber} \n\nHaii Selamat Datang mas`;
+const outro = `anjg lo dek`
 
-const teksPromote = `Cie jadi admin :v\n@${memNumber}`;
-const teksDemote = `Yahaha kena demote\n@${memNumber}`
+const teksPromote = `@${memNumber} \n\have become admin`;
+const teksDemote = `@${memNumber} \n\has been demoted`
   
 try {
 var pp_user = await client.getProfilePicture(mem)
@@ -67,11 +67,11 @@ var pp_grup = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-pict
 butIn = [
 { buttonId: `y`, 
 buttonText: { 
-displayText: "Oke siap" }, 
+displayText: "hai qontol" }, 
 type: 1 },
 { buttonId: `${prefix}bullyuk ${memNumber}`, 
 buttonText: { 
-displayText: "Bully yuk" }, 
+displayText: "bagi duit banh" }, 
 type: 1 } 
  ];         
  
@@ -79,7 +79,7 @@ type: 1 }
 let butOut= [{ 
 buttonId: `y`, 
 buttonText: { 
-displayText: "Nitip gorengan" },
+displayText: "gajelas lo dik" },
 type: 1 }
 ];        
  
