@@ -60,7 +60,7 @@
                                                                                                                                                                                                                                    
      "setWelcome": {
      "autoWelcome": true,
-     "welcomeType": "type2",
+     "welcomeType": "type1",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
